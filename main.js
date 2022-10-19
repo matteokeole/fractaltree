@@ -1,6 +1,6 @@
 const I = 12; // Number of iterations
 const H = .7; // Height multiplier
-let A = Math.PI / 4; // Base angle
+let A = .4; // Base angle
 
 Object.assign(angle, {
 	max: Math.PI * 2,
